@@ -1,10 +1,9 @@
 # Sales-dashboard
-# 📊 Sales Dashboard
 
 
 ### 1. Project Title / Headline
 
-A concise, descriptive name for the dashboard.
+ 📊 Sales Dashboard
 
 
 
